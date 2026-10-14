@@ -5,3 +5,6 @@ Backend Basics
 
 Требования
 Python 3.12+
+
+bash\n
+python main.py
